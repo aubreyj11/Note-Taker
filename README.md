@@ -21,7 +21,8 @@ This project's purpose is to give users a place to input notes and save them to 
 <br>
 
 ## Installation
-After cloning the code from the repository or using the Heroku website link, make sure that Express, Node, and all dependencies are downloaded. In the server.js file terminal window, run 'node server.js' to start server in the local server at port 3001. Listed below is a link to the deployed Heroku application:
+If cloning the code from the repository, make sure that Express, Node, and all dependencies are downloaded. In the server.js file terminal window, run 'node server.js' to start server in the local server at port 3001. 
+If using the Heroku deployed application link, simply open the link and press 'Get Started' to be redirected to your list of notes. Listed below is a link to the deployed Heroku application:
 <br>
 
 https://calm-harbor-19291.herokuapp.com/
